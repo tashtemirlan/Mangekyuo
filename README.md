@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mangekyuo
+- 👀 I’m interested in Java&Android
+- 🌱 I’m currently learning Android,Java,IOS development
