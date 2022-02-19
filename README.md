@@ -7,10 +7,10 @@
 </h1>
 
 # About me
- - 🎓 **Study on Computer Engineering**
- - 💻 **Working on Mobile Dev**
- - ⚙️ **Learning Java, Flutter, Android Dev, C++**
- - ⛱️ **Love Math and Programming**
+ - <h2>🎓 Study on Computer Engineering </h2>
+ - <h2>💻 Working on Mobile Dev </h2>
+ - <h2>⚙️ Learning Java, Flutter, Android Dev, C++ </h2>
+ - <h2>⛱️ Love Math and Programming </h2>
  
  # Tech skills
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
