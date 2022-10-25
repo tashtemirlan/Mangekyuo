@@ -7,7 +7,7 @@
 </h1>
 
 # About me
- - <h3>🎓 Study on Computer Engineering </h3>
+ - <h3>🎓 Study on Mobile Developer </h3>
  - <h3>💻 Working on Mobile Dev </h3>
  - <h3>⚙️ Learning Java, Flutter, Android Dev, C++ </h3>
  - <h3>⛱️ Love Math and Programming </h3>
